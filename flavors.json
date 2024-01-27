@@ -1,0 +1,25 @@
+{
+    "fruits": [
+      {
+        "name": "Apple",
+        "explanation": "Apples are crisp and sweet fruits. They come in various colors such as red, green, and yellow. Apples are rich in fiber, vitamins, and antioxidants."
+      },
+      {
+        "name": "Banana",
+        "explanation": "Bananas are tropical fruits with a soft, creamy texture. They are a good source of potassium, vitamin C, and vitamin B6. Bananas are a convenient and energy-boosting snack."
+      },
+      {
+        "name": "Orange",
+        "explanation": "Oranges are citrus fruits known for their tangy flavor. They are high in vitamin C, which is essential for a healthy immune system. Oranges also contain fiber and various antioxidants."
+      },
+      {
+        "name": "Grapes",
+        "explanation": "Grapes are small, sweet, and juicy berries that come in different colors, including red, green, and purple. They are rich in antioxidants and can be enjoyed as a snack or used to make juice and wine."
+      },
+      {
+        "name": "Kiwi",
+        "explanation": "Kiwi, also known as kiwifruit or Chinese gooseberry, is a small, fuzzy fruit with bright green flesh. It is packed with vitamin C, vitamin K, and dietary fiber. Kiwi has a unique sweet and tart taste."
+      }
+    
+    ]
+  }
