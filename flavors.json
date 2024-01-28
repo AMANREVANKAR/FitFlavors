@@ -1,15 +1,58 @@
 {
-    "fruits": [
+    "flavors": [
       {
         "name": "Eggs",
         "Type": "protiens",
          "BMI":{
            "start":"0",
            "end":"18.5",
-           "reason":"A lean source of protein that supports in weight management"
-         }
+           "reason":"A source of protein with essentials mino acids and nutrients like choline and vitamin D"
+         },
+         "precaution":"2-3 eggs per day"
+      },
+      {
+        "name": "Yogurt",
+        "Type": "dairy",
+         "BMI":{
+           "start":"0",
+           "end":"18.5",
+           "reason":"good source of calories and protein"
+         },
+         "precaution":" 1 cup per day" 
+      },
+
+      {
+        "name": "Brown Rice",
+        "Type": "Grains",
+         "BMI":{
+           "start":"0",
+           "end":"18.5",
+           "reason":"Brown rice is high in calories and carbohydrates"
+         },
+         "precaution":"1 cup cooked, 2-3 times per week" 
+      },
+
+      {
+        "name": "Whole Wheat Bread",
+        "Type": "Grains",
+         "BMI":{
+           "start":"0",
+           "end":"18.5",
+           "reason":"Whole-grain bread is a good carb source "
+         },
+         "precaution":" 2 slices per day" 
+      },
+
+      {
+        "name": "Olive Oil",
+        "Type": "Fats",
+         "BMI":{
+           "start":"0",
+           "end":"18.5",
+           "reason":" just a small amount per day can boost calorie intake"
+         },
+         "precaution":"1-2 tablespoons per day" 
       }
-     
-    
+
     ]
   }
